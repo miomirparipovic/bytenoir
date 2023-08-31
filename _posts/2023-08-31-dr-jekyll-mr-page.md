@@ -116,7 +116,7 @@ git push -u origin master
 
 In summary, if you want to start blogging, for whatever the reason, be sure that you have a good enough reason. Just kiddin'. But, if you do like Markdown, and you don't really need a proper database for your data, you may want to use Jekyll and GitHub Pages combo. It's free, easy to use, and if you're ready to put some time and effort, you may build a professionally looking portfolio or blog.
 
-For me, I really enjoyed this first interaction with Jekyll, so my plan is to continue improving on my basic knowledge and playing with it to see how far I can get. I might use Docker next time. That could be fun.
+For me, I really enjoyed this initial interaction with Jekyll. My plan is to continue playing with it to see how far I can get. I'm even considering using Docker next time. That could be fun.
 
 
 ### Additional Links

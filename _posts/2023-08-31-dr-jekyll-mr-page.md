@@ -29,6 +29,11 @@ A Linux machine (Windows and Mac, you're on your own.) and a GitHub account. Tha
 Installation process is described in the docs files, but here's the summary:
 
 ```bash
+sudo apt-get install ruby-full build-essential zlib1g-dev
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
 gem install jekyll bundler
 jekyll new myblog
 cd myblog

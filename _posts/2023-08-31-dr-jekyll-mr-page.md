@@ -103,11 +103,8 @@ The next step is to create a git repo and name it like this: 'your-github-userna
 
 ```bash
 git init
-# check your files
 git status
-# add everything
 git add .
-# commit
 git commit -m "initial commit"
 git remote add origin <git@github.com:copy-this-from-your-repo>
 git branch -M master

@@ -12,9 +12,9 @@ This is my very first post, and I want to start it with a disclaimer. This blog/
 
 If you feel that you have something important to say (you really don't), you want to make yourself more 'visible' (but, why?), or, like me, you want to make your technical notes available online for whatever purpose (I'm already regretting this)-you might start blogging. There are so many ways and approaches to do this, so feel free to do your own research on the topic. I didn't want to waste too much time, so I chose Jekyll and GitHub Pages combo.
 
-[Jekyll](https://jekyllrb.com/docs/) is a static site generator. Basically, there is no database, everything is stored in the files. If you keep your notes in Markdown format, this duo just might be a perfect choice for you. You can easily customize your site's look and feel. Or just choose from plenty of templates that are already available for you.
+[Jekyll](https://jekyllrb.com/docs/){:target="_blank"} is a static site generator. Basically, there is no database, everything is stored in the files. If you keep your notes in Markdown format, this duo just might be a perfect choice for you. You can easily customize your site's look and feel. Or just choose from plenty of templates that are already available for you.
 
-[GitHub pages](https://github.com/) is a hosting service for static files (HTML, CSS, JS) straight from your GitHub repository. (How cool is that?)
+[GitHub pages](https://github.com/){:target="_blank"} is a hosting service for static files (HTML, CSS, JS) straight from your GitHub repository. (How cool is that?)
 
 So, with these two tools you have everything you need to host your website. In addition to that, you may buy your own domain and make things even more interesting.
 
@@ -64,9 +64,9 @@ Set the following to disable IPv6 for all adapters:
 net.ipv6.conf.all.disable_ipv6 = 1
 ```
 
-Run `sudo sysctl -p` or restart your terminal. You should be good to go. Check the [link](https://www.itzgeek.com/how-tos/linux/debian/how-to-disable-ipv6-on-debian-9-ubuntu-16-04.html) for more information.
+Run `sudo sysctl -p` or restart your terminal. You should be good to go. Check the [link](https://www.itzgeek.com/how-tos/linux/debian/how-to-disable-ipv6-on-debian-9-ubuntu-16-04.html){:target="_blank"} for more information.
 
-Back to Jekyll. If you want to use a predefined theme, the process is slightly different. In my case, I'm using [The Hacker-Blog Theme](https://github.com/tocttou/hacker-blog) which, in turn, is based on the [Hacker Theme](https://github.com/pages-themes/hacker). 
+Back to Jekyll. If you want to use a predefined theme, the process is slightly different. In my case, I'm using [The Hacker-Blog Theme](https://github.com/tocttou/hacker-blog){:target="_blank"} which, in turn, is based on the [Hacker Theme](https://github.com/pages-themes/hacker){:target="_blank"}. 
 
 ```bash
 touch Gemfile
@@ -124,6 +124,6 @@ For me, I really enjoyed this first interaction with Jekyll, so my plan is to co
 
 ### Additional Links
 
-[Markdown docs](https://www.markdownguide.org/basic-syntax/)  
-[Hacker Blog](https://jamstackthemes.dev/theme/jekyll-theme-hacker-blog/)  
-[The Hacker Theme](https://github.com/pages-themes/hacker)  
+[Markdown docs](https://www.markdownguide.org/basic-syntax/){:target="_blank"}  
+[Hacker Blog](https://jamstackthemes.dev/theme/jekyll-theme-hacker-blog/){:target="_blank"}  
+[The Hacker Theme](https://github.com/pages-themes/hacker){:target="_blank"}  

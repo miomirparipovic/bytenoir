@@ -1,2 +1,12 @@
+# Visual Studio Code
+.vscode/*
+
+# Miscellaneous
 _site
-.sass-cache
+.sass-cache/
+.jekyll-cache/
+.prettierrc
+
+# System files
+.DS_Store
+Thumbs.db

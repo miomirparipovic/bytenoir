@@ -18,5 +18,20 @@ So, if you're eager to turn your job into a craft and elevate your coding skills
 - Patience. To become a goog programmer you need time, patience, focus, and good attitude. This process is more likely to be a marathon, not a sprint.
 - Never compare yourself to someone else. Compare yourself today to who you were yesterday. Just try to get better every day.
 - Programming is hard. When you start your first job, you feel pressured to go faster all the time. Try to slow down. Take a bit of time to understand how everything works, to just learn and mature.
+- Chase the work you find interesting. And if you're passionate about something you'll get great at it. And when you're great at something, success and monetary rewards will follow.
+- If you're unwilling to learn and change, you become irrelevant.
+- Interviewing is a skill in of itself and it takes practice to master.
+- Clear communication is an essential requirement in interviews. Interviewers want to know that you can hear what they say, conceptualize it, turn it into a step-by-step answer, and turn it into a code that they can understand.
+- Experience is what people hire for. Earn it. Be the developer that you'd want to work with. Have that passion and desire burning inside you.
+- Keep discovering things you like to do. Be passionate, be curious.
+- Be a developer that everyone wants to hire - the developer that is curious.
+- Your successful career is a sum of small decisions over time.
+- Don't be overconfident in your skills.
+- When looking for a job, networking is huge. Most of the jobs come from you knowing somebody else. Know people, be able to interact with people.
+- Don't give up. Don't make excuses.
+- Struggling is fine. The big thing is to recover from struggling.
+- Contribute to Open Source, FOSS. Create content, educate others through blog posts, tutorials, courses. Contribute to the community, build your personal brand. Content creation can lead to professional opportunities and help establish your expertise in the industry. Go outside of your comfort zone, share your knowledge.
+- Try building a course. This will help you to learn an enormous amount of things on a topic you already know (The Feynman Technique). You'll be able to see how much you really know versus how much you assumed you know.
+- Don't avoid professional development opportunities: hackatons, etc. Take part in anything that could potentially enhance your sills, knowledge, or brand image.
 
 To be continued...

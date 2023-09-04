@@ -31,7 +31,7 @@ So, if you're eager to turn your job into a craft and elevate your coding skills
 - Don't give up. Don't make excuses.
 - Struggling is fine. The big thing is to recover from struggling.
 - Contribute to Open Source, FOSS. Create content, educate others through blog posts, tutorials, courses. Contribute to the community, build your personal brand. Content creation can lead to professional opportunities and help establish your expertise in the industry. Go outside of your comfort zone, share your knowledge.
-- Try building a course. This will help you to learn an enormous amount of things on a topic you already know (The Feynman Technique). You'll be able to see how much you really know versus how much you assumed you know.
+- Try building a course. This will help you to learn an enormous amount of things on a topic you already know ([The Feynman Technique](https://fs.blog/feynman-technique/){:target="_blank"}). You'll be able to see how much you really know versus how much you assumed you know.
 - Don't avoid professional development opportunities: hackatons, etc. Take part in anything that could potentially enhance your sills, knowledge, or brand image.
 
 To be continued...

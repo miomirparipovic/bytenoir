@@ -3,14 +3,9 @@ title: Publish your blog using Jekyll and GitHub Pages
 published: true
 ---
 
-### Disclaimer
-
-This is my very first post, and I want to start it with a disclaimer. This blog/portfolio venture is a product of my own experimentation and learning-kind of a personal endeavor to dive into the world of programming and explore its treacherous depths and beyond. If you're into comprehensive tutorials or in-depth documentation, you're in the wrong place. There is plethora of resources that might serve you better (just ask Google). If you happen to stumble upon this place by chance, just be warned that this is nothing more than an incomplete record of my learning process-a chronicle of trial and error. My main goal is to try and learn more about these topics, and to be able to explain them plainly to others-and myself (The Feynman Technique). Take nothing for granted. Try it, explore it, experiment, and play with it. But then again, you should use this approach for (almost) anything in life.
-
-
 ### Intro
 
-If you feel that you have something important to say (you really don't), you want to make yourself more 'visible' (but, why?), or, like me, you want to make your technical notes available online for whatever purpose (I'm already regretting this)-you might start blogging. There are so many ways and approaches to do this, so feel free to do your own research on the topic. I didn't want to waste too much time, so I chose Jekyll and GitHub Pages combo.
+If you'd want to create a portfolio, or share technical notes, you might start writing a blog. There are various ways to do this, so go ahead and explore the options. I didn't want to spend too much time, so I went with Jekyll and GitHub Pages combo.
 
 [Jekyll](https://jekyllrb.com/docs/){:target="_blank"} is a static site generator. Basically, there is no database, everything is stored in the files. If you keep your notes in Markdown format, this duo just might be a perfect choice for you. You can easily customize your site's look and feel. Or just choose from plenty of templates that are already available for you.
 

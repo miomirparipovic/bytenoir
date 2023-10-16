@@ -14,6 +14,7 @@ published: true
 7. [What is an execution context?](#what-is-an-execution-context)
 8. [What is a global execution context?](#what-is-a-global-execution-context)
 
+
 ### What is JS?
 
 JS is a programming language that is one of the core technologies of the WWW, alongside HTML and CSS. It is a high-level, JIT compiled language that conforms to the ECMAScript standard. 

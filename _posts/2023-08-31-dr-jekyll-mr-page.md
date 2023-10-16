@@ -5,7 +5,7 @@ published: true
 
 ### Intro
 
-If you'd want to create a portfolio, or share technical notes, you might start writing a blog. There are various ways to do this, so go ahead and explore the options. I didn't want to spend too much time, so I went with Jekyll and GitHub Pages combo.
+If you'd want to create a portfolio or share technical notes, you might start writing a blog. There are various ways to do this, so feel free to explore the available options. My choice fell on Jekyll and GitHub Pages combo.
 
 [Jekyll](https://jekyllrb.com/docs/){:target="_blank"} is a static site generator. Basically, there is no database, everything is stored in the files. If you keep your notes in Markdown format, this duo just might be a perfect choice for you. You can easily customize your site's look and feel. Or just choose from plenty of templates that are already available for you.
 

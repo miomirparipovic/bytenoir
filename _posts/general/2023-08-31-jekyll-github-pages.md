@@ -1,5 +1,5 @@
 ---
-title: Publish your blog using Jekyll and GitHub Pages
+title: Start your blog with Jekyll and GitHub Pages
 published: true
 ---
 
@@ -7,17 +7,15 @@ published: true
 
 If you'd want to create a portfolio or share technical notes, you might start writing a blog. There are various ways to do this, so feel free to explore the available options. My choice fell on Jekyll and GitHub Pages combo.
 
-[Jekyll](https://jekyllrb.com/docs/){:target="_blank"} is a static site generator. Basically, there is no database, everything is stored in the files. If you keep your notes in Markdown format, this duo just might be a perfect choice for you. You can easily customize your site's look and feel. Or just choose from plenty of templates that are already available for you.
+[Jekyll](https://jekyllrb.com/docs/){:target="\_blank"} is a static site generator. Basically, there is no database, everything is stored in the files. If you keep your notes in Markdown format, this duo just might be a perfect choice for you. You can easily customize your site's look and feel. Or just choose from plenty of templates that are already available for you.
 
-[GitHub pages](https://github.com/){:target="_blank"} is a hosting service for static files (HTML, CSS, JS) straight from your GitHub repository. (How cool is that?)
+[GitHub pages](https://github.com/){:target="\_blank"} is a hosting service for static files (HTML, CSS, JS) straight from your GitHub repository. (How cool is that?)
 
 So, with these two tools you have everything you need to host your website. In addition to that, you may buy your own domain and make things even more interesting.
-
 
 ### Prerequisites
 
 A Linux machine (Windows and Mac, you're on your own.) and a GitHub account. That's it.
-
 
 ### Installation Process
 
@@ -37,7 +35,7 @@ bundle exec jekyll serve
 
 Browse to http://localhost:4000
 
-I did encounter problems during the installation process. Apparently, because my Linux is hosted as a virtual machine (KVM), there were problems 
+I did encounter problems during the installation process. Apparently, because my Linux is hosted as a virtual machine (KVM), there were problems
 
 If you host your Linux as a virtual machine (KVM), you might encounter some networking related problems. Long story short, you'll need to disable the IPv6 or play with NATing.
 
@@ -59,9 +57,9 @@ Set the following to disable IPv6 for all adapters:
 net.ipv6.conf.all.disable_ipv6 = 1
 ```
 
-Run `sudo sysctl -p` or restart your terminal. You should be good to go. Check the [link](https://www.itzgeek.com/how-tos/linux/debian/how-to-disable-ipv6-on-debian-9-ubuntu-16-04.html){:target="_blank"} for more information.
+Run `sudo sysctl -p` or restart your terminal. You should be good to go. Check the [link](https://www.itzgeek.com/how-tos/linux/debian/how-to-disable-ipv6-on-debian-9-ubuntu-16-04.html){:target="\_blank"} for more information.
 
-Back to Jekyll. If you want to use a predefined theme, the process is slightly different. In my case, I'm using [The Hacker-Blog Theme](https://github.com/tocttou/hacker-blog){:target="_blank"} which, in turn, is based on the [Hacker Theme](https://github.com/pages-themes/hacker){:target="_blank"}. 
+Back to Jekyll. If you want to use a predefined theme, the process is slightly different. In my case, I'm using [The Hacker-Blog Theme](https://github.com/tocttou/hacker-blog){:target="\_blank"} which, in turn, is based on the [Hacker Theme](https://github.com/pages-themes/hacker){:target="\_blank"}.
 
 ```bash
 touch Gemfile
@@ -106,16 +104,14 @@ git branch -M master
 git push -u origin master
 ```
 
-
 ### Summary
 
 In summary, if you want to start blogging, for whatever the reason, be sure that you have a good enough reason. Just kiddin'. But, if you do like Markdown, and you don't really need a proper database for your data, you may want to use Jekyll and GitHub Pages combo. It's free, easy to use, and if you're ready to put some time and effort, you may build a professionally looking portfolio or blog.
 
 For me, I really enjoyed this initial interaction with Jekyll. My plan is to continue playing with it to see how far I can get. I'm even considering using Docker next time. That could be fun.
 
-
 ### Additional Links
 
-[Markdown docs](https://www.markdownguide.org/basic-syntax/){:target="_blank"}  
-[Hacker Blog](https://jamstackthemes.dev/theme/jekyll-theme-hacker-blog/){:target="_blank"}  
-[The Hacker Theme](https://github.com/pages-themes/hacker){:target="_blank"}  
+[Markdown docs](https://www.markdownguide.org/basic-syntax/){:target="\_blank"}  
+[Hacker Blog](https://jamstackthemes.dev/theme/jekyll-theme-hacker-blog/){:target="\_blank"}  
+[The Hacker Theme](https://github.com/pages-themes/hacker){:target="\_blank"}
